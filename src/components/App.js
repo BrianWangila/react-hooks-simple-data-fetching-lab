@@ -14,7 +14,7 @@ function App(){
       return <p>Loading...</p>
   return(
    
-    
+  
     <img src={randomImage} alt="A Random Dog"/>
     
   )
